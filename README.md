@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Melbourne foi considerada pela revista The Economist por 7 vezes como a melhor cidade do mundo para se viver.Ela fica no estado de Victoria, na Austrália. 
+Melbourne foi considerada pela revista The Economist por 7 vezes como a melhor cidade do mundo para se viver. Ela fica no estado de Victoria, na Austrália. 
 
 No ano de  2018, os imóveis passaram por uma "bolha imobiliária" e o intuito deste projeto é realizar uma Análise de Dados a fim de descobrir causas, procurar tendências e, ao final, criar um Modelo Matemático para entender se previsões teriam auxiliado o cenário na época.
 
